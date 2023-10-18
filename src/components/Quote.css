@@ -22,3 +22,8 @@
     white-space: pre-line;
     color: black;
 }
+
+.card-error {
+    white-space: pre-line;
+    color: red;
+}

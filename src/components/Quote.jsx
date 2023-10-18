@@ -18,7 +18,7 @@ const Quote = (props) => {
           )}
           {error && (
             <div className="card">
-              <div className="card-body">{error}</div>
+              <div className="card-error">{error}</div>
             </div>
           )}
         </div>
